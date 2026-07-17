@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/B.Sc.-ICT%20Engineering-7b2cbf?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
 <img src="https://img.shields.io/badge/Location-Tehran%2C%20IR-4b0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <a href="https://github.com/nimahqni"><img src="https://img.shields.io/badge/Portfolio-Ready-9d4edd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/nimahqni"><img src="https://img.shields.io/badge/LinkedIn-Connect-3f37c9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/nima-haghani-52bab3256"><img src="https://img.shields.io/badge/LinkedIn-Connect-3f37c9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nimahqni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-560bad?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/>
